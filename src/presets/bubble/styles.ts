@@ -6,6 +6,6 @@ export const styles = StyleSheet.create({
     backgroundColor: 'white',
     justifyContent: 'center',
     paddingHorizontal: 24,
-    marginHorizontal: wp('-2%)
+    marginHorizontal: wp('-2%')
   },
 });
