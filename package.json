@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "react-native-redash": "15.7.3"
+    "react-native-redash": "15.7.3",
+    "react-native-responsive-screen": "^1.4.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
